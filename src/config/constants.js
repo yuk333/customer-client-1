@@ -1,0 +1,1 @@
+export const API_URL = "https://customer-server-p.herokuapp.com";
